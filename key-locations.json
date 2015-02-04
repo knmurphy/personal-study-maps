@@ -45,6 +45,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jerusalem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216667,
+          31.783333
+        ]
+      }
     }
   ]
 }
