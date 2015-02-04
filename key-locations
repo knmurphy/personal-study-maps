@@ -4,26 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mount Horeb"
+        "Name": "Mt. Sinai"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.328578,
-          28.679547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mount Sinai"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.331687927246094,
-          28.680159078095862
+          33.973333,
+          28.539722
         ]
       }
     }
