@@ -13,6 +13,38 @@
           28.539722
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Start Red Sea Crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.474212646484375,
+          29.86803797286267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Sea Parting"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4810791015625,
+            29.864465259258
+          ],
+          [
+            32.5799560546875,
+            29.92280355577698
+          ]
+        ]
+      }
     }
   ]
 }
